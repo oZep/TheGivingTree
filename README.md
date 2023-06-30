@@ -1,5 +1,5 @@
 # TheGivingTree
-June 2023 Game Jam Submission for the UOttawa Game Dev Club **1st Place Winner!**
+June 2023 Game Jam Submission for the UOttawa Game Dev Club --> **1st Place Winner!**
 
 <img width="1440" alt="Screenshot 2023-06-24 at 3 21 42 PM" src="https://github.com/oZep/TheGivingTree/assets/97713154/3478a51b-f7d4-4cb2-b871-12ad527f7525">
 

@@ -14,7 +14,7 @@ Between balencing summer school courses and exams, I wanted to work on a small a
 * Between **June 7th and June 23rd**, I worked with Unity 3d and C# to implement everything
 * I have finished and submitted this project as of **June 24th**.
 
-I'm glad to say that I've finally been able to accomplish what I set out to do. This is my first time working with Unity 3D, and I actually really enjoyed the expereince. I hope to create many more games in the future, so stayy tuned!
+I'm glad to say that I've finally been able to accomplish what I set out to do. This is my first time working with Unity 3D, and I actually really enjoyed the expereince. I hope to create many more games in the future, so stay tuned!
 
 <img width="1440" alt="Screenshot 2023-06-24 at 3 11 43 PM" src="https://github.com/oZep/TheGivingTree/assets/97713154/0c872886-7fba-442e-b49f-7efb95550d04">
 
